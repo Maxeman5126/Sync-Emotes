@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Sync-Emotes",
+    "author": "Maxeman",
+    "description": "Automatically syncs with another players emotes.",
+    "options": {
+        "guiName": "Sync",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/Maxeman5126/sync-emotes/master/"],
+    "version": "2/5/24"
+}
